@@ -6,7 +6,10 @@
 	2. Compass
 	3. FiBoo...
 
-[![IFiBoo prev](https://img.youtube.com/vi/kU86O0xagdk/0.jpg)](https://www.youtube.com/watch?v=kU86O0xagdk)
-
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=kU86O0xagdk" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 *Yaroslav Melnychyn, 3 course, FEI, TUKE*
 
