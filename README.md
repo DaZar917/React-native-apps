@@ -4,7 +4,7 @@
 
 	1. Dieler
 	2. Compass
-	3. Loading...
+	3. FiBoo...
 
 *Yaroslav Melnychyn, 3 course, FEI, TUKE*
 
