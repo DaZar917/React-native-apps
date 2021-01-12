@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Dieler",
+    "slug": "Dieler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/844e8cd4ab26c82286238471f0e5a901.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
